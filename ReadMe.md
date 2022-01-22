@@ -5,13 +5,10 @@ Whatsup?
 I build an Awesome Medium Clone using 𝓼𝓪𝓷𝓲𝓽𝔂 𝓒𝓜𝓢, 𝓣𝔂𝓹𝓮𝓼𝓬𝓻𝓲𝓹𝓽, 𝓝𝓮𝔁𝓽.𝓙𝓼 𝓪𝓷𝓭 𝓣𝓪𝓲𝓵𝔀𝓲𝓷𝓭𝓬𝓼𝓼!
 * You can use this repo to make a blog.
 
-How to use this repo?
+🚨🚨🚨 Important 🚨🚨🚨
+Don't forget to change the environment variables in the .env.local before running the project.
 
-First You need to clone this source code 𝓑𝔂 pasting
-```
-$ git clone https://github.com/CoRRecTcoDe2020/Medium-Clone.git
-```
-command in Your terminal.
+If this repo useful for You, please give star ⭐ to this repo and also follow 𝓶𝔂 github profile to see more useful repositories in the future!
 
 # Next.js + Tailwind CSS Example
 
@@ -40,3 +37,6 @@ yarn create next-app --example with-tailwindcss with-tailwindcss-app
 ```
 
 Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+
+Have a nice winter! ⛄⛄⛄⛄
+See You soon!
