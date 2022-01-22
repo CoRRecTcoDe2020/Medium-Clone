@@ -12,7 +12,7 @@ I build an Awesome Medium Clone using 𝓼𝓪𝓷𝓲𝓽𝔂 𝓒𝓜𝓢, �
 
 Don't forget to change the environment variables in the .env.local before running the project.
 
-If this repo useful for You, please give star ⭐ to this repo and also follow 𝓶𝔂 github profile to see more useful repositories in the future!
+If this repo useful for You, please give star ⭐ to the repo and also follow 𝓶𝔂 github profile to see more useful repositories in the future!
 
 # Next.js + Tailwind CSS Example
 
@@ -43,4 +43,5 @@ yarn create next-app --example with-tailwindcss with-tailwindcss-app
 Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
 
 Have a nice winter! ⛄⛄⛄⛄
+
 See You soon!
