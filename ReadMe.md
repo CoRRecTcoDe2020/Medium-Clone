@@ -1,8 +1,11 @@
 # Medium Clone
 Hi Friends!
+
 Welcome to Medium Clone repo! 👨‍💻👨‍💻👨‍💻
+
 Whatsup?
 I build an Awesome Medium Clone using 𝓼𝓪𝓷𝓲𝓽𝔂 𝓒𝓜𝓢, 𝓣𝔂𝓹𝓮𝓼𝓬𝓻𝓲𝓹𝓽, 𝓝𝓮𝔁𝓽.𝓙𝓼 𝓪𝓷𝓭 𝓣𝓪𝓲𝓵𝔀𝓲𝓷𝓭𝓬𝓼𝓼!
+
 * You can use this repo to make a blog.
 
 🚨🚨🚨 Important 🚨🚨🚨
